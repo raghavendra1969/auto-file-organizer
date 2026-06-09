@@ -41,7 +41,7 @@ def main():
     create_folders(base_file, categories)
     move_files(base_file, categories)
 
-    print("✅ Organizing files is done!")
+    print(" Organizing files is done!")
 
 if __name__ == "__main__":
     main()
